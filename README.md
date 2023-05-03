@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Patrick Borzych</h1>
 <h3 align="center">Passionated student learning software in embedded systems</h3>
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
 - 🌱 I’m currently learning **Arduino, embedded systems**
 
@@ -7,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-borzych/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-borzych/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-borzych/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-borzych/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
