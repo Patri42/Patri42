@@ -1,9 +1,6 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Patrick Borzych</h1>
-<h3 align="center">Passionated student learning software in embedded systems</h3>
+<h3 align="center">Software developer</h3>
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
-
-- 🌱 I’m currently learning **Arduino, embedded systems**
 
 - 📫 How to reach me: **patrick.borzych@gmail.com**
 
